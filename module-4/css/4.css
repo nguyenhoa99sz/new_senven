@@ -39,7 +39,100 @@
 }
 .type-4 .adudu-row {
   margin-top: 30px;
-  border-top: 1px solid red;
-  border-bottom: 1px solid red;
+  border-top: 1px solid #e0d3d3;
+  border-bottom: 1px solid #e0d3d3;
   padding-bottom: 76px;
+}
+.type-4 .img-mm {
+  width: 100%;
+  height: 76px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.type-4 .form-search-custom {
+  position: relative;
+}
+.type-4 .form-search-custom .row {
+  display: flex;
+  align-items: center;
+}
+.type-4 .form-search-custom .row .form-input input:focus,
+.type-4 .form-search-custom .row .form-input button:focus {
+  outline: none;
+}
+.type-4 .form-search-custom .row .form-input input {
+  width: 80%;
+}
+.type-4 .form-search-custom .row .form-input button {
+  width: 20%;
+}
+.type-4 .form-search-custom .in-input {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  left: 60%;
+  text-decoration: none;
+}
+.type-4 .form-search-custom .in-input a {
+  position: relative;
+}
+.type-4 .form-search-custom .in-input::before {
+  content: '';
+  position: absolute;
+  height: 100%;
+  width: 2px;
+  left: -10px;
+  background: #ccc;
+}
+.type-4 .form-search-custom .in-input::after {
+  content: 'v';
+  position: absolute;
+  background-color: white;
+  color: #dacaca;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1.5px solid #ccc;
+  border-radius: 100%;
+  left: -9.5px;
+  height: 15px;
+  width: 15px;
+}
+.type-4 .form-search-custom .in-input .nav-menu {
+  position: absolute;
+  list-style: none;
+  padding-left: 0;
+  background: #fff;
+  border: 1px solid #ccc;
+  padding: 5px;
+  visibility: hidden;
+  transition: all ease-in .2s;
+  opacity: 0;
+}
+.type-4 .form-search-custom .in-input .nav-menu li a {
+  white-space: nowrap;
+}
+.type-4 .form-search-custom .in-input:hover .nav-menu {
+  visibility: visible;
+  opacity: 1;
+}
+.type-4 .ipt-css {
+  border: 1px solid red;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  padding-left: 10px;
+  width: 200px;
+}
+.type-4 .btn-seach {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border: 1px solid red;
+  background-color: red;
+  width: 103px;
 }
