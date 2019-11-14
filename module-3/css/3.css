@@ -1,16 +1,23 @@
-.type-3 .text-wrap {
-  background: #1768FE;
-  padding: 100px;
+.type-3 {
+  background-color: #f5f5f5;
 }
-.type-3 .text-wrap .text-left {
-  color: #fff;
+.type-3 .header {
+  text-align: center;
 }
-.type-3 .text-wrap .create-account {
-  margin-top: 20px;
-  background: #FE9703;
-  padding: 20px 20px;
-  color: #fff;
+.type-3 .mybody {
+  margin-top: 30px;
+  text-align: center;
+  width: 100%;
+  height: 100px;
+  border: 1px solid #d1c1c1;
+  box-shadow: 0px 1px 7px -1px;
+  margin-bottom: 30px;
+  background-color: white;
 }
-.type-3 .text-wrap .create-account:hover {
-  background: #e9a13c;
+.type-3 .mybody:hover {
+  transform: scale(1.02);
+  box-shadow: 1px 1px 10px 3px;
+}
+.type-3 .pd-top {
+  padding-top: 10px;
 }

@@ -8,22 +8,69 @@ $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
 ?>
 <div class="type-3">
-    <div class="text-wrap">
     <div class="container">
         <div class="row">
-            <div class="col-md-8">
-                <div class="text-left">
-                <h1>Get Start Your New Job With Us !</h1>
-                <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis</span>
+            <div class="header">
+                <h3>Futures of Digito Theme</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum voluptatibus praesentium doloremque
+                    natus ipsa. Impedit voluptates blanditiis aperiam dicta ad omnis, voluptatem facilis beatae sint
+                    deleniti deserunt! Pariatur, consequuntur assumenda.</p>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="mybody">
+                    <h4 class="pd-top"><p>Full Responsive</p></h4>
+                    <p>You Style Will Look Great On MyChannel</p>
                 </div>
-                
             </div>
-            <div class="col-md-4">
-                <button class="btn create-account">Create an Account <span class="badge badge-primary"></span></button> 
+            <div class="col-md-4 col-sm-6">
+                <div class="mybody">
+                    <h4 class="pd-top"><p>Full Responsive</p></h4>
+                    <p>You Style Will Look Great On MyChannel</p>
+                </div>
             </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="mybody">
+                    <h4 class="pd-top"><p>Full Responsive</p></h4>
+                    <p>You Style Will Look Great On MyChannel</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="mybody">
+                    <h4 class="pd-top"><p>Full Responsive</p></h4>
+                    <p>You Style Will Look Great On MyChannel</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="mybody">
+                    <h4 class="pd-top"><p>Full Responsive</p></h4>
+                    <p>You Style Will Look Great On MyChannel</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="mybody">
+                    <h4 class="pd-top"><p>Full Responsive</p></h4>
+                    <p>You Style Will Look Great On MyChannel</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="mybody">
+                    <h4 class="pd-top"><p>Full Responsive</p></h4>
+                    <p>You Style Will Look Great On MyChannel</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="mybody">
+                    <h4 class="pd-top"><p>Full Responsive</p></h4>
+                    <p>You Style Will Look Great On MyChannel</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="mybody">
+                    <h4 class="pd-top"><p>Full Responsive</p></h4>
+                    <p>You Style Will Look Great On MyChannel</p>
+                </div>
+            </div>
+
         </div>
     </div>
-    </div>
-    
 </div>
