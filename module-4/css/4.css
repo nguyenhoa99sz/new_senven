@@ -16,6 +16,7 @@
   position: absolute;
   left: 0;
   visibility: hidden;
+  background-color: white;
   border: 1px solid #ccc;
 }
 .type-4 .nav-right-menu ul li .nav-menu a {
@@ -32,10 +33,12 @@
 }
 .type-4 .nav-right-menu ul li:hover .nav-menu {
   visibility: visible;
+  background-color: white;
 }
 .type-4 .nav-right-menu ul a {
   text-decoration: none;
   color: #000;
+  background-color: white;
 }
 .type-4 .adudu-row {
   margin-top: 30px;
@@ -55,6 +58,8 @@
 .type-4 .form-search-custom .row {
   display: flex;
   align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .type-4 .form-search-custom .row .form-input input:focus,
 .type-4 .form-search-custom .row .form-input button:focus {
@@ -135,4 +140,45 @@
   border: 1px solid red;
   background-color: red;
   width: 103px;
+  color: white;
+}
+.type-4 .ctn2 {
+  margin-top: 10px;
+  border-top: 1px solid #e0d3d3;
+  border-bottom: 1px solid #e0d3d3;
+}
+.type-4 .adu-cts {
+  text-decoration: none;
+  color: #dbcccc;
+}
+.type-4 .fawpro {
+  font-size: 23px;
+}
+.type-4 .addad {
+  padding-left: 20px;
+  margin-top: 10px;
+  color: #867b7b;
+}
+.type-4 .fawpro {
+  list-style: none;
+}
+.type-4 .fawpro li {
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+}
+.type-4 .fawpro li a {
+  text-decoration: none;
+  color: black;
+}
+.type-4 .fawpro li a:hover {
+  text-decoration: none;
+  color: #d10000;
+}
+.type-4 .fawpro li i {
+  display: block;
+}
+.type-4 .fawpro li:hover i {
+  color: yellow;
 }
