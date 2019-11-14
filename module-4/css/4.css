@@ -1,0 +1,45 @@
+.type-4 .nav-right-menu ul {
+  list-style: none;
+  padding-left: 0;
+  position: relative;
+}
+.type-4 .nav-right-menu ul li {
+  padding-right: 10px;
+  padding-left: 10px;
+  float: left;
+}
+.type-4 .nav-right-menu ul li:hover a {
+  color: red;
+}
+.type-4 .nav-right-menu ul li .nav-menu {
+  padding-left: 0;
+  position: absolute;
+  left: 0;
+  visibility: hidden;
+  border: 1px solid #ccc;
+}
+.type-4 .nav-right-menu ul li .nav-menu a {
+  color: #000 !important;
+}
+.type-4 .nav-right-menu ul li .nav-menu li {
+  display: block;
+  float: unset !important;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.type-4 .nav-right-menu ul li .nav-menu li:hover a {
+  color: red !important;
+}
+.type-4 .nav-right-menu ul li:hover .nav-menu {
+  visibility: visible;
+}
+.type-4 .nav-right-menu ul a {
+  text-decoration: none;
+  color: #000;
+}
+.type-4 .adudu-row {
+  margin-top: 30px;
+  border-top: 1px solid red;
+  border-bottom: 1px solid red;
+  padding-bottom: 76px;
+}
