@@ -1,0 +1,57 @@
+.type-9 .adudu-tl {
+  background-color: #f3283d;
+  margin-top: 15px;
+}
+.type-9 .fts {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+.type-9 .emali-ipt {
+  padding-top: 25px;
+  padding-bottom: 29px;
+}
+.type-9 .ipt-text {
+  border: 1px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  width: 60%;
+  height: 33px;
+  padding-left: 10px;
+}
+.type-9 .btn {
+  border: 1px;
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+  width: 20%;
+  height: 33px;
+  margin-bottom: 2px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background: yellow;
+}
+.type-9 .body-fter {
+  background: black;
+  padding-top: 10px;
+  color: white;
+  padding-bottom: 20px;
+}
+.type-9 ul {
+  list-style: none;
+  margin-left: -38px;
+}
+.type-9 ul li a {
+  text-decoration: none;
+  color: #666;
+}
+.type-9 ul li a:hover {
+  color: #363333;
+}
+.type-9 .border-css {
+  margin-top: 54px;
+  padding-top: 16px;
+  border-top: 1px solid #816f6f;
+}
+.type-9 .textpro {
+  color: white;
+}
