@@ -20,12 +20,12 @@ $url_path = str_replace('\\', '/', $url_path);
                     <ul class="list-menu">
                         <li>
                             <span class="icon-left"><i class="far fa-star"></i></span><a href="#"
-                                class="menu-item">Today’s Value Deals</a>
+                                class="menu-item">Destop</a>
                         </li>
                         <li>
                             <p><strong>></strong></p>
                             <span class="icon-left"><i class="fas fa-mobile-alt"></i></span><a href="#"
-                                class="menu-item">Mobile Phones</a>
+                                class="menu-item">Lamps</a>
                             <div class="menu-to-right">
                                 <div class="row">
                                     <div class="br"></div>
@@ -61,7 +61,7 @@ $url_path = str_replace('\\', '/', $url_path);
 
                             <p><strong>></strong></p>
                             <span class="icon-left"><i class="fas fa-desktop"></i></span><a href="#"
-                                class="menu-item">Computers</a>
+                                class="menu-item">MP3 Player</a>
                             <div class="computers">
                                 <div class="row">
                                     <div class="br"></div>
@@ -93,7 +93,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         </li>
                         <li>
                             <span class="icon-left"><i class="far fa-lightbulb"></i></span><a href="#"
-                                class="menu-item">Accessories</a>
+                                class="menu-item">Componant</a>
                         </li>
                         <li>
                             <span class="icon-left"><i class="fas fa-camera"></i></span><a href="#"
@@ -102,7 +102,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         <li>
                             <p><strong>></strong></p>
                             <span class="icon-left"><i class="fas fa-adjust"></i></span><a href="#"
-                                class="menu-item">Headphones</a>
+                                class="menu-item">Tablet</a>
                             <div class="headphones">
                                 <div class="row">
                                     <div class="br"></div>
@@ -134,16 +134,16 @@ $url_path = str_replace('\\', '/', $url_path);
                         </li>
                         <li>
                             <span class="icon-left"><i class="fas fa-book"></i></span><a href="#"
-                                class="menu-item">Books & Audible</a>
+                                class="menu-item">Software</a>
                         </li>
                         <li>
                             <span class="icon-left"><i class="fas fa-print"></i></span><a href="#"
-                                class="menu-item">Office</a>
+                                class="menu-item">Phone</a>
                         </li>
                         <li>
                             <p><strong>></strong></p>
                             <span class="icon-left"><i class="fas fa-mobile-alt"></i></span><a href="#"
-                                class="menu-item">Laptops & Tablets</a>
+                                class="menu-item">Cameras</a>
                             <div class="laptops">
                                 <div class="row">
                                     <div class="br"></div>
@@ -176,7 +176,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         <li>
                             <p><strong>></strong></p>
                             <span class="icon-left"><i class="fas fa-power-off"></i></span><a href="#"
-                                class="menu-item">Home Appliances</a>
+                                class="menu-item">More</a>
                             <div class="home">
                                 <div class="row">
                                     <div class="br"></div>
@@ -211,6 +211,61 @@ $url_path = str_replace('\\', '/', $url_path);
             </div>
             <a class="navbar-brand" id="nav-brand-2" href="#"><img class="img-responsive" src="images/logo.png"
                     style="height: 26px;"></a>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="adudu-123">
+                    <img src="images/1.jpg" alt="img1" class="adudu-myimg">
+                    <h4>Nguyen Nguyen Hoa</h4>
+                    <p>Nguyen Nguyen Hoa</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="adudu-123">
+                    <img src="images/1.jpg" alt="img1" class="adudu-myimg">
+                    <div class="adu">
+                        <h4>Nguyen Nguyen Hoa</h4>
+                        <p>Nguyen Nguyen Hoa</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="adudu-123">
+                    <img src="images/3.jpg" alt="img1" class="adudu-myimg">
+                    <h4>Nguyen Nguyen Hoa</h4>
+                    <p>Nguyen Nguyen Hoa</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="adudu-123">
+                    <img src="images/2.jpg" alt="img1" class="adudu-myimg">
+                    <h4>Nguyen Nguyen Hoa</h4>
+                    <p>Nguyen Nguyen Hoa</p>
+                </div>
+            </div>
+            <div class="col-md-4 imgbgr1">
+                <div class="adudu-conten">
+                    <h5 class="adudu-h3">Up to 40%</h5>
+                    <h3 class="adudu-h4">New AriVal 2019</h3>
+                    <h5 class="adudu-h3">Shopnow -></h5>
+                </div>
+            </div>
+            <div class="col-md-4 imgbgr2">
+                <div class="adudu-conten">
+                    <h5 class="adudu-h3">Up to 40%</h5>
+                    <h3 class="adudu-h4">New AriVal 2019</h3>
+                    <h5 class="adudu-h3">Shopnow -></h5>
+                </div>
+            </div>
+            <div class="col-md-4 imgbgr3">
+                <div class="adudu-conten">
+                    <h5 class="adudu-h3">Up to 40%</h5>
+                    <h3 class="adudu-h4">New AriVal 2019</h3>
+                    <h5 class="adudu-h3">Shopnow -></h5>
+                </div>
+            </div>
         </div>
     </div>
 </div>

@@ -1,6 +1,58 @@
 .type-5 {
   font-family: Montserrat, sans-serif;
 }
+.type-5 .adudu-myimg {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  float: left;
+}
+.type-5 .adudu-h3 {
+  color: #a58888;
+}
+.type-5 .adudu-h3:hover {
+  color: red;
+}
+.type-5 .adudu-conten {
+  padding-top: 100px;
+}
+.type-5 .adudu-h4 {
+  color: white;
+}
+.type-5 .adu {
+  display: inline;
+}
+.type-5 .imgbgr1 {
+  margin-top: 50px;
+  background: url(../images/1.jpg) no-repeat;
+  width: 360px;
+  height: 250px;
+  background-size: cover;
+  margin-left: 30px;
+  border-radius: 10px;
+}
+.type-5 .imgbgr2 {
+  background: url(../images/2.jpg) no-repeat;
+  width: 360px;
+  height: 250px;
+  background-size: cover;
+  margin-left: 30px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+.type-5 .imgbgr3 {
+  background: url(../images/3.jpg) no-repeat;
+  width: 360px;
+  height: 250px;
+  background-size: cover;
+  margin-left: 30px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+.type-5 .adudu-123 {
+  padding-left: 40px;
+  border-left: 2px solid #c4b9b9;
+}
 .type-5 .yamm .nav,
 .type-5 .yamm .collapse,
 .type-5 .yamm .dropup,
@@ -61,6 +113,7 @@
 }
 .type-5 .list-menu .menu-item:hover::before {
   width: 100%;
+  background-color: white;
 }
 .type-5 .list-menu li p {
   float: right;
@@ -81,6 +134,7 @@
 .type-5 .list-menu li:hover .menu-to-right {
   visibility: visible;
   left: 300px;
+  background-color: white;
 }
 .type-5 .list-menu li .computers {
   width: 500px;
@@ -97,6 +151,7 @@
 .type-5 .list-menu li:hover .computers {
   visibility: visible;
   left: 300px;
+  background-color: white;
 }
 .type-5 .list-menu li .headphones {
   width: 500px;
@@ -113,6 +168,7 @@
 .type-5 .list-menu li:hover .headphones {
   visibility: visible;
   left: 300px;
+  background-color: white;
 }
 .type-5 .list-menu li .laptops {
   width: 500px;
@@ -129,6 +185,7 @@
 .type-5 .list-menu li:hover .laptops {
   visibility: visible;
   left: 300px;
+  background-color: white;
 }
 .type-5 .list-menu li .home {
   width: 500px;
@@ -145,6 +202,7 @@
 .type-5 .list-menu li:hover .home {
   visibility: visible;
   left: 300px;
+  background-color: white;
 }
 .type-5 .navbar {
   margin-bottom: 0;
